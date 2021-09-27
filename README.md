@@ -1,2 +1,2 @@
 # btclod-Youtube-Downloader-Chrome-Script
-Simple Tampermonkey Script for a Download Button on Youtube
+Simple UserScript to add an Download Button on Youtube
