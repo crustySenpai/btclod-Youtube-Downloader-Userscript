@@ -1,5 +1,7 @@
 # btclod-Youtube-Downloader-Chrome-Script
-Simple UserScript to add an Download Button to Youtube
+Simple UserScript to add an Download Button to Youtube.
+
+Ported from the https://yt5s.com/ Userscript.
 
 You will need an Userscript Manager to install it!
 Here are some recommended ones:
