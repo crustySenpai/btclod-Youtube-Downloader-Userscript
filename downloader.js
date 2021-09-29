@@ -8,7 +8,7 @@
 // @homepage    https://btclod.com/
 // @icon        https://github.com/crustySenpai/btclod-Youtube-Downloader-Userscript/blob/main/icon.png?raw=true
 // @icon64      https://github.com/crustySenpai/btclod-Youtube-Downloader-Userscript/blob/main/icon.png?raw=true
-// @updateURL   https://raw.githubusercontent.com/crustySenpai/btclod-Youtube-Downloader-UserScript/master/downloader.js
+// @updateURL   https://raw.githubusercontent.com/crustySenpai/btclod-Youtube-Downloader-Userscript/master/downloader.js
 // @include     http://*
 // @include     https://*
 // @run-at      document-end
