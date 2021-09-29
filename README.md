@@ -2,6 +2,8 @@
 Simple UserScript to add an Download Button to Youtube.</br>
 Ported from the https://yt5s.com/ Userscript.
 
+Click [Here](https://raw.githubusercontent.com/crustySenpai/btclod-Youtube-Downloader-Userscript/master/downloader.user.js) to install it.
+
 You will need a Userscript Manager to install it!
 Here are some recommended ones:
 
