@@ -1,15 +1,14 @@
 // ==UserScript==
 // @name        crustySenpais btclod YouTube Downloader
 // @namespace   https://btclod.com/
-// @version     1.0
-// @date        2021-09-27
+// @version     1.1
+// @date        2021-09-29
 // @author      A Max, crustySenpai
 // @description Ported to btclod by crustySenpai
 // @homepage    https://btclod.com/
-// @icon        https://github.com/crustySenpai/btclod-Youtube-Downloader-Chrome-Script/blob/main/icon.png?raw=true
-// @icon64      https://github.com/crustySenpai/btclod-Youtube-Downloader-Chrome-Script/blob/main/icon.png?raw=true
-// @updateURL   
-// @downloadURL 
+// @icon        https://github.com/crustySenpai/btclod-Youtube-Downloader-Userscript/blob/main/icon.png?raw=true
+// @icon64      https://github.com/crustySenpai/btclod-Youtube-Downloader-Userscript/blob/main/icon.png?raw=true
+// @updateURL   https://raw.githubusercontent.com/crustySenpai/btclod-Youtube-Downloader-UserScript/master/downloader.js
 // @include     http://*
 // @include     https://*
 // @run-at      document-end
