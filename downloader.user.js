@@ -1,8 +1,7 @@
 // ==UserScript==
-// @name        crustySenpais btclod YouTube Downloader
+// @name        btclod YouTube Downloader
 // @namespace   https://btclod.com/
-// @version     1.1
-// @date        2021-09-29
+// @version     1.2
 // @author      A Max, crustySenpai
 // @description Ported to btclod by crustySenpai
 // @homepage    https://btclod.com/
