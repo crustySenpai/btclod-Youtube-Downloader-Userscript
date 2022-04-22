@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name        btclod YouTube Downloader
 // @namespace   https://btclod.com/
-// @version     1.3
+// @version     1.4
 // @author      A Max, crustySenpai
 // @description Ported to btclod by crustySenpai
 // @homepage    https://btclod.com/
 // @icon        https://github.com/crustySenpai/btclod-Youtube-Downloader-Userscript/blob/main/icon.png?raw=true
 // @icon64      https://github.com/crustySenpai/btclod-Youtube-Downloader-Userscript/blob/main/icon.png?raw=true
+// @downloadURL https://raw.githubusercontent.com/crustySenpai/btclod-Youtube-Downloader-Userscript/master/downloader.user.js
 // @updateURL   https://raw.githubusercontent.com/crustySenpai/btclod-Youtube-Downloader-Userscript/master/downloader.user.js
 // @match       https://www.youtube.com/*
 // @match       https://www.m.youtube.com/*
